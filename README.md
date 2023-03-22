@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ynsaltn90/ynsaltn90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm using ? 🛠
+I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 
-Here are some ideas to get you started:
+I’m currently working on Fullstack development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning React.js
+
+HTML5, CSS3, JavaScript, React, Redux, Python, SQL, GitHub, Material.UI, PostgreSQL, RESTful APIs, Django.
+
+💬 Ask me about anything that you want to learn
+
+You can reach me, my email address: ynsaltnfs@gmail.com
