@@ -1,7 +1,7 @@
 ### Hi there 👋 Yunus is here.
 
 What I'm using ? 🛠
-* I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
+I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 
 * I’m currently working on Fullstack development
 
